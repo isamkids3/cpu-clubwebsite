@@ -16,7 +16,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "CPU Club | Heriot-Watt University",
-  description: "Official Computer Processing Unit Club website at Heriot-Watt University",
+  description:
+    "Official Computing & Programming Unplugged (CPU) Club website at Heriot-Watt University",
 };
 
 export default function RootLayout({
